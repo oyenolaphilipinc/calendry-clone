@@ -1,0 +1,37 @@
+.hero-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.hero-children-1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.text-hype{
+    margin-top: 20px;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #00008f;
+}
+span{
+    color: #0275d8;
+}
+.p-tag{
+    line-height: 25px;
+    height: auto;
+    font-size: larger;
+    color: grey;
+}
+.primary-button{
+    border: 1px solid #fff;
+    background-color: #0275d8;
+    padding: 20px 30px;
+    margin-bottom: 14px;
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.form-p{
+    font-weight: bold;
+}

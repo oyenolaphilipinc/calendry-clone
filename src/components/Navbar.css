@@ -1,0 +1,24 @@
+*{
+    font-family: sans-serif;
+}
+.wrapper{
+    justify-content: space-between;
+    margin-top: 20px;
+}
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.link-button{
+    border: 1px solid #fff;
+    background-color: #0275d8;
+    padding: 10px 15px;
+    margin-bottom: 14px;
+    color: white;
+    border-radius: 20px;
+}
+.img-hero{
+    margin-left: 35px;
+}
