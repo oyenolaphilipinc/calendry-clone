@@ -1,3 +1,30 @@
 .font-h1{
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-family: monospace;
+    font-weight: bold;
+}
+.span-out{
+    margin-left: 40px;
+}
+.cta-home{
+    display: flex;
+    flex-direction: column;
+}
+.icons{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.pool{
+    text-align: center;
+    color: #313131;
+}
+.zene{
+    margin-left: 100px;
+}
+@media (max-width: 700px){
+    .icons{
+        display: flex;
+        flex-direction: column;
+    }
 }
