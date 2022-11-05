@@ -41,3 +41,6 @@ span{
         flex-direction: column;
     }
 }
+.input-text{
+    border-color: grey;
+}
