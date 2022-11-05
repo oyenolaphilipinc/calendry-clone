@@ -32,6 +32,7 @@ ul li{
     display: none;
     margin-top: 10px;
     margin-right: 20px;
+    cursor: pointer;
 }
 
 @media (max-width: 768px){
@@ -53,4 +54,7 @@ ul li{
     .burger{
         display: block;
     }
+}
+ul li a:hover{
+    color: #0275d8;
 }
